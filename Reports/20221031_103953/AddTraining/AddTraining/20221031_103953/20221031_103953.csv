@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AddTraining,Chrome 106.0.0.0,,,2022-10-31 10:40:06,2022-10-31 10:42:22,2m - 16.861s,FAILED
+,,,,,,,
+Test Cases/TrainingCreation/TC_01_TrainingCreation,Chrome 106.0.0.0,,,2022-10-31 10:42:18,2022-10-31 10:42:22,4.340s,FAILED
+"openBrowser("""")",Chrome 106.0.0.0,,,2022-10-31 10:42:18,2022-10-31 10:42:20,1.893s,PASSED
+"navigateToUrl(""https://staging.smartkungahara.rw/#/"")",Chrome 106.0.0.0,,,2022-10-31 10:42:20,2022-10-31 10:42:22,2.198s,PASSED
+"click(findTestObject(""Object Repository/Page_Smart  Kungahara/button_Login""))",Chrome 106.0.0.0,,,2022-10-31 10:42:22,2022-10-31 10:42:22,0.238s,FAILED

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Attach files_training-file-input-icon</name>
+   <tag></tag>
+   <elementGuidId>f9d5ace0-1258-456f-9dab-c6fa9e9843a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.training-file-input-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d921de49-f4f4-41b6-a943-e6db0d5d2904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/dist/img/sks/ico_export.svg</value>
+      <webElementGuid>91b9f1c5-069c-4f53-a85f-206f84c95277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>training-file-input-icon</value>
+      <webElementGuid>4295dc46-7a67-4e86-a56f-920ba86e181a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hold-transition skin-blue sidebar-mini&quot;]/app-root[1]/app-admin[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/app-training-edit[1]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;training-file-input&quot;]/img[@class=&quot;training-file-input-icon&quot;]</value>
+      <webElementGuid>70a0b992-1f50-4b35-83d7-ad5149347674</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/img</value>
+      <webElementGuid>6eabe549-5cf8-4bc7-9a5f-90e0a1511f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/dist/img/sks/ico_export.svg']</value>
+      <webElementGuid>c1e41b2a-7fc3-4dd2-b5c9-59f453c43982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
